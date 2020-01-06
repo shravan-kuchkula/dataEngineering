@@ -1,0 +1,8 @@
+store,countrycode,brand,model,price,currency,quantity,date
+Aldi,BE,Diapers-R-Us,6months,6.8,EUR,40,2019-02-03
+Kruidvat,BE,Nappy-k,2months,4.8,EUR,30,2019-01-28
+Carrefour,FR,Nappy-k,2months,5.7,EUR,30,2019-02-06
+Kruidvat,NL,Nappy-k,2months,5.6,EUR,40,2019-02-15
+Tesco,IRL,Pampers,3months,6.3,EUR,35,2019-02-07
+DM,DE,Huggies,newborn,6.8,EUR,40,2019-02-01
+DM,AT,Huggies,newborn,7.2,EUR,40,2019-02-01

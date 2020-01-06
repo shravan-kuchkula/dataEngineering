@@ -1,0 +1,4 @@
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+source ${DIR}/variables
+
+PYTHONPATH=$(pwd) DATA_LAKE="$DATA_LAKE" pipenv run python pydiaper/cleaning/clean_prices.py

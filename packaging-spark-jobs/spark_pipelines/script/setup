@@ -1,0 +1,6 @@
+DATA_LAKE="$(mktemp --directory)"
+mkdir -p "${DATA_LAKE}"/{landing,clean,business}
+cp pydiaper/resources/landing/*csv "$DATA_LAKE/landing"
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+echo "DATA_LAKE=\"$DATA_LAKE\"" > "${DIR}/variables"
