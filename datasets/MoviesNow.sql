@@ -11,7 +11,7 @@ CREATE TABLE movies
 
 
 COPY movies
-	FROM PROGRAM 'curl "https://raw.githubusercontent.com/shravan-kuchkula/interview-prep/master/SQL/data/movies_181127_2.csv?token=AGGD7U2NOXYQLMGYJOA5CKC6IA7XY"' (DELIMITER ',', FORMAT CSV, HEADER);
+	FROM PROGRAM 'curl "https://raw.githubusercontent.com/shravan-kuchkula/dataEngineering/master/datasets/movies_181127_2.csv"' (DELIMITER ',', FORMAT CSV, HEADER);
 
 
 DROP TABLE IF EXISTS "actors";
@@ -26,7 +26,7 @@ CREATE TABLE actors
 
 
 COPY actors
-	FROM PROGRAM 'curl "https://raw.githubusercontent.com/shravan-kuchkula/interview-prep/master/SQL/data/actors_181127_2.csv?token=AGGD7U74INLYIGZEPZJEWCS6IATJE"' (DELIMITER ',', FORMAT CSV, HEADER);
+	FROM PROGRAM 'curl "https://raw.githubusercontent.com/shravan-kuchkula/dataEngineering/master/datasets/actors_181127_2.csv"' (DELIMITER ',', FORMAT CSV, HEADER);
 
 
 DROP TABLE IF EXISTS "actsin";
@@ -39,7 +39,7 @@ CREATE TABLE actsin
 
 
 COPY actsin
-	FROM PROGRAM 'curl "https://raw.githubusercontent.com/shravan-kuchkula/interview-prep/master/SQL/data/actsin_181127_2.csv?token=AGGD7U3EILTTP6MFOBPZHF26IBAUE"' (DELIMITER ',', FORMAT CSV, HEADER);
+	FROM PROGRAM 'curl "https://raw.githubusercontent.com/shravan-kuchkula/dataEngineering/master/datasets/actsin_181127_2.csv"' (DELIMITER ',', FORMAT CSV, HEADER);
 
 
 DROP TABLE IF EXISTS "customers";
@@ -55,7 +55,7 @@ CREATE TABLE customers
 
 
 COPY customers
-	FROM PROGRAM 'curl "https://raw.githubusercontent.com/shravan-kuchkula/interview-prep/master/SQL/data/customers_181127_2.csv?token=AGGD7U4ZUCQFY4O5UGETQS26IBAV2"' (DELIMITER ',', FORMAT CSV, HEADER);
+	FROM PROGRAM 'curl "https://raw.githubusercontent.com/shravan-kuchkula/dataEngineering/master/datasets/customers_181127_2.csv"' (DELIMITER ',', FORMAT CSV, HEADER);
 
 
 DROP TABLE IF EXISTS "renting";
@@ -70,4 +70,4 @@ CREATE TABLE renting
 
 
 COPY renting
-	FROM PROGRAM 'curl "https://raw.githubusercontent.com/shravan-kuchkula/interview-prep/master/SQL/data/renting_181127_2.csv?token=AGGD7U7CNQSF3BW5RIGM3RS6IBAXS"' (DELIMITER ',', FORMAT CSV, HEADER);
+	FROM PROGRAM 'curl "https://raw.githubusercontent.com/shravan-kuchkula/dataEngineering/master/datasets/renting_181127_2.csv"' (DELIMITER ',', FORMAT CSV, HEADER);
