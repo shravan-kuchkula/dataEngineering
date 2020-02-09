@@ -1,0 +1,146 @@
+actor_id,name,year_of_birth,nationality,gender
+1,Abbie Cornish,1982,Australia,female
+2,Adam Sandler,1966,USA,male
+3,Al Pacino,1940,USA,male
+4,Amy Adams,1974,USA,female
+5,Andrea Riseborough,1981,British,female
+6,Anjelica Huston,1951,USA,female
+7,Annasophia Robb,1993,USA,female
+8,Anne Hathaway,1982,USA,female
+9,Anthony Hopkins,1937,British,male
+10,Barkhad Abdi,1985,Somalia,male
+11,Barry Pepper,1970,Canada,male
+12,Benicio Del Toro,1967,Puerto Rico,male
+13,Bette Midler,1945,USA,female
+14,Bill Nighy,1949,British,male
+15,Bridget Moynahan,1971,USA,female
+16,Bruce Dern,1936,USA,male
+17,Bruce McGill,1950,USA,male
+18,Bryce Dallas Howard,1981,USA,female
+19,Carice van Houten,1976,Netherlands,female
+20,Cate Blanchett,1969,Australia,female
+21,Catherine Keener,1959,USA,female
+22,Channing Tatum,1980,USA,male
+23,Charlize Theron,1975,South Africa,female
+24,Chris Cooper,1951,USA,male
+25,Christian Bale,1974,British,male
+26,Christina Ricci,1980,USA,female
+27,Christoph Waltz,1956,Austria,male
+28,Ciaran Hinds,1953,Northern Ireland,male
+29,Colin Farrell,1976,Ireland,male
+30,Colin Firth,1960,British,male
+31,Daniel Craig,1968,British,male
+32,Daniel Radcliffe,1989,British,male
+33,Denzel Washington,1954,USA,male
+34,Diane Keaton,1946,USA,female
+35,Donald Sutherland,1935,Canada,male
+36,Eddie Murphy,1961,USA,male
+37,Eddie Redmayne,1982,British,male
+38,Ed Harris,1950,USA,male
+39,Edward Norton,1969,USA,male
+40,Elijah Wood,1981,USA,male
+41,Emma Stone,1988,USA,female
+42,Emma Watson,1990,British,female
+43,Ethan Hawke,1970,USA,male
+44,Fernando Tielve,1986,Spain,male
+45,Frances McDormand,1957,USA,female
+46,Freddie Highmore,1992,British,male
+47,Gene Hackman,1930,USA,male
+48,Geoffrey Rush,1951,Australia,male
+49,George Clooney,1961,USA,male
+50,Gwyneth Paltrow,1972,USA,female
+51,Haley Joel Osment,1988,USA,male
+52,Halle Berry,1966,USA,female
+53,Harrison Ford,1942,USA,male
+54,Heath Ledger,1979,Australia,male
+55,Hector Bordoni,1965,Argentina,male
+56,Helen Hunt,1963,USA,female
+57,Helen Mirren,1945,British,female
+58,Hugh Grant,1960,British,male
+59,Hugh Jackman,1968,Australia,male
+60,Hugo Weaving,1960,Australia,male
+61,Ian McKellen,1939,British,male
+62,Irene Escolar,1988,Spain,female
+63,Jack Nicholson,1937,USA,male
+64,Jamie Foxx,1967,USA,male
+65,Javier Bardem,1969,Spain,male
+66,Jennifer Garner,1972,USA,female
+67,Jennifer Lawrence,1990,USA,female
+68,Jennifer Lopez,1969,USA,female
+69,Jeremy Northam,1961,British,male
+70,Jesse Eisenberg,1983,USA,male
+71,Jim Broadbent,1949,British,male
+72,John Cusack,1966,USA,male
+73,John Hawkes,1959,USA,male
+74,John Malkovich,1953,USA,male
+75,John Travolta,1954,USA,male
+76,Josh Brolin,1968,USA,male
+77,Josh Hutcherson,1992,USA,male
+78,Julie Christie,1940,British,female
+79,Kate Hudson,1979,USA,female
+80,Katie Holmes,1978,USA,female
+81,Keanu Reeves,1964,Canada,male
+82,Kerry Washington,1977,USA,female
+83,Kevin Breznahan,1968,USA,male
+84,Kristen Bell,1980,USA,female
+85,Leonardo DiCaprio,1974,USA,male
+86,Liam Hemsworth,1990,Australia,male
+87,Liam Neeson,1952,Northern Ireland,male
+88,Lisa Kudrow,1963,USA,female
+89,Liv Tyler,1977,USA,female
+90,Maggie Gyllenhaal,1977,USA,female
+91,Marcia Gay Harden,1959,USA,female
+92,Marisa Tomei,1964,USA,female
+93,Mark Wahlberg,1971,USA,male
+94,Maryam Karimi,,,female
+95,Matt Dillon,1964,USA,male
+96,Matthew McConaughey,1969,USA,male
+97,Mel Gibson,1956,USA,male
+98,Michael Caine,1933,British,male
+99,Michael Pena,1976,USA,male
+100,Mohamad Dolati,,,male
+101,Naomi Watts,1968,British,female
+102,Natalie Portman,1981,Israel,female
+103,Natasha Richardson,1963,British,female
+104,Nick Stahl,1979,USA,male
+105,Nicolas Cage,1964,USA,male
+106,Nicole Kidman,1967,Australia,female
+107,Patrick Swayze,1952,USA,male
+108,Patrick Wilson,1973,USA,male
+109,Patton Oswalt,1969,USA,male
+110,Paul Reiser,1956,USA,male
+111,Philip Seymour Hoffman,1967,USA,male
+112,Rachel McAdams,1978,Canada,female
+113,Rachel Roberts,1927,British,female
+114,Ray Romano,1957,USA,male
+115,Regina King,1971,USA,female
+116,Renee Zellweger,1969,USA,female
+117,Rene Russo,1954,USA,female
+118,Richard Gere,1949,USA,male
+119,Robert De Niro,1943,USA,male
+120,Robert Duvall,1931,USA,male
+121,Robert Redford,1936,USA,male
+122,Robin Williams,1951,USA,male
+123,Rupert Grint,1988,British,male
+124,Sam Riley,1980,British,male
+125,Sandra Bullock,1964,USA,female
+126,Sarah Jessica Parker,1965,USA,female
+127,Scarlett Johansson,1984,USA,female
+128,Scott Cohen,1961,USA,male
+129,Scott Glenn,1939,USA,male
+130,Sean Bean,1959,British,male
+131,Sean Penn,1960,USA,male
+132,Shia LaBeouf,1986,USA,male
+133,Shohreh Aghdashloo,1952,Iran,female
+134,Stephen Rea,1946,Ireland,male
+135,Susan Sarandon,1946,USA,female
+136,Tom Hanks,1956,USA,male
+137,Tommy Lee Jones,1946,USA,male
+138,Tom Wilkinson,1948,British,male
+139,Vanessa Hudgens,1988,USA,female
+140,Viggo Mortensen,1958,USA,male
+141,Viola Davis,1965,USA,female
+142,Violante Placido,1976,Italy,female
+143,will.i.am,1975,USA,male
+144,William H. Macy,1950,USA,male
+145,Zooey Deschanel,1980,USA,female

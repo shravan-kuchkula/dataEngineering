@@ -1,0 +1,72 @@
+movie_id,title,genre,runtime,year_of_releas,renting_price
+1,One Night at McCool's,Comedy,93,2001,2.09
+2,Swordfish,Drama,99,2001,2.19
+3,What Women Want,Comedy,127,2001,2.59
+4,Training Day,Drama,122,2001,1.79
+5,The Fellowship of the Ring,Science Fiction & Fantasy,178,2001,2.59
+6,Harry Potter and the Philosopher's Stone,Science Fiction & Fantasy,152,2001,2.69
+7,The Royal Tenenbaums,Comedy,110,2002,1.89
+8,Waking Up in Reno,Comedy,91,2002,2.59
+9,11'09''01 September 11,Drama,134,2002,2.99
+10,Simone,Drama,117,2002,2.69
+11,Showtime,Comedy,95,2002,1.79
+12,The Two Towers,Science Fiction & Fantasy,179,2002,2.39
+13,Harry Potter and the Chamber of Secrets,Science Fiction & Fantasy,161,2002,1.79
+14,The Recruit,Mystery & Suspense,115,2003,1.69
+15,Something's Gotta Give,Comedy,128,2003,1.69
+16,25th Hour,Drama,135,2003,1.59
+17,The Human Stain,Mystery & Suspense,106,2003,1.99
+18,Secondhand Lions,Drama,111,2003,1.69
+19,21 Grams,Drama,124,2003,2.09
+20,Love Actually,Comedy,135,2003,2.29
+21,The Return of the King,Science Fiction & Fantasy,200,2003,1.99
+22,Imagining Argentina,Art House & International,107,2004,2.59
+23,Shall We Dance,Drama,106,2004,1.69
+24,Welcome to Mooseport,Comedy,110,2004,2.89
+25,Bridget Jones - The Edge of Reason,Drama,108,2004,2.89
+26,Ray,Drama,152,2004,2.59
+27,Monster,Drama,109,2004,2.09
+28,Harry Potter and the Prisoner of Azkaban,Science Fiction & Fantasy,142,2004,1.69
+29,Two for the Money,Drama,122,2005,2.79
+30,Capote,Drama,114,2005,2.39
+31,Harry Potter and the Goblet of Fire,Science Fiction & Fantasy,157,2005,2.69
+32,A Good Woman,Drama,93,2006,2.89
+33,V for Vendetta,Drama,132,2006,1.59
+34,Failure to Launch,Drama,97,2006,1.99
+35,Happy Feet,Animation,108,2006,1.79
+36,World Trade Center,Drama,129,2006,1.59
+37,Candy,Drama,116,2006,1.59
+38,The Lake House,Drama,99,2006,2.49
+39,I'm Not There,Drama,135,2007,1.79
+40,Then She Found Me,Drama,100,2007,1.99
+41,The Kingdom,Drama,110,2007,2.09
+42,No Country for Old Men,Drama,122,2007,1.49
+43,The Invasion,Mystery & Suspense,99,2007,2.09
+44,Harry Potter and the Order of the Phoenix,Science Fiction & Fantasy,138,2007,2.49
+45,Burn After Reading,Drama,96,2008,2.39
+46,Sleepwalking,Drama,101,2008,1.79
+47,Fool's Gold,Action & Adventure,112,2008,2.69
+48,Astro Boy,Action & Adventure,94,2009,2.89
+49,Harry Potter and the Half-Blood Prince,Science Fiction & Fantasy,153,2009,1.59
+50,Winter's Bone,Drama,100,2010,2.69
+51,Morning Glory,Comedy,107,2010,2.99
+52,Fair Game,Drama,108,2010,2.89
+53,The Fighter,Other,116,2010,2.49
+54,Harry Potter and the Deathly Hallows – Part 1,Science Fiction & Fantasy,146,2010,2.79
+55,The Other Woman,Drama,102,2011,1.69
+56,Jack and Jill,Comedy,91,2011,2.09
+57,Young Adult,Drama,94,2011,1.99
+58,The Help,Drama,146,2011,2.49
+59,Brighton Rock,Mystery & Suspense,111,2011,2.39
+60,Black Death,Drama,102,2011,2.69
+61,Harry Potter and the Deathly Hallows – Part 2,Science Fiction & Fantasy,130,2011,1.99
+62,The Sessions,Drama,95,2012,2.29
+63,Django Unchained,Other,165,2012,2.69
+64,Cloud Atlas,Drama,172,2012,2.89
+65,Ghost Rider: Spirit of Vengeance,Action & Adventure,96,2012,1.79
+66,The Hunger Games,Drama,142,2012,1.59
+67,White House Down,Drama,131,2013,1.59
+68,The Company You Keep,Mystery & Suspense,125,2013,2.39
+69,The Frozen Ground,Mystery & Suspense,105,2013,2.49
+70,Captain Phillips,Drama,134,2013,1.59
+71,Rio 2,Animation,101,2014,1.79
